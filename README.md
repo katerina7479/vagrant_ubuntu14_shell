@@ -28,7 +28,11 @@ If you install things through pip, do:
 
 And it will install next time.
 
-If you want to throw it away, do:
+To exit the virtual machine, do
+
+`> exit`
+
+If you want to throw the machine away, do:
 
 `> vagrant destroy`
 
